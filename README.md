@@ -20,7 +20,7 @@ Greetings, wanderer! I'm Chandra Shekar Suryadevara, an aspiring Computer Scienc
 
 - **Machine Learning Maestro:** Witness the alchemy of algorithms as I weave together the forces of Machine Learning to tackle real-world conundrums, from classification to recommendation systems.
 
-- **Coding Mage:** My code incantations in C/C++, C#, Python, JavaScript, Java, MongoDB, and more, bring software to life, casting enchantments that captivate users.
+- **Coding Mage:** My code incantations in C/C++, Python, and more, bring software to life, casting enchantments that captivate users.
 
 - **Mystical Environments:** My mastery extends to multiple realms, from the mystical lands of Windows, Windows Server, and VMWare to the enigmatic allure of Microsoft Azure and the arcane knowledge of Linux.
 
