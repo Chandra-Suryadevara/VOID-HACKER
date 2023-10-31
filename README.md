@@ -42,10 +42,6 @@ I'm currently pursuing a Bachelor of Science in Computer Science at the esteemed
 - Through rigorous testing and analysis, I ensure the model's accuracy and fortitude, unearthing its mystical MSE and RMSE metrics.
 - Experience the thrill as I compare predictions with actual stock market data, revealing the true extent of my sorcery.
   
-**2. [Secret Project] 🕵️**
-
-_Whispers in the wind suggest the existence of a clandestine project in development. Stay tuned for its grand unveiling._
-
 ### My Fascination Beyond the Arcane 🔮
 
 - **Photography:** While I channel the arcane arts of Computer Science, I also find solace in capturing fleeting moments through the lens of street photography.
@@ -53,9 +49,3 @@ _Whispers in the wind suggest the existence of a clandestine project in developm
 - **Editing Magician:** My talents extend to the realms of 2D/3D video editing, where I weave tales of wonder through the magic of visual storytelling.
 
 - **Robot Enchanter:** I find delight in designing, assembling, and programming autonomous robots using Arduino and Raspberry Pi, infusing them with the spark of life.
-
-### Venture Forth! 🚀
-
-Feel free to explore the magical artifacts I've conjured within my GitHub kingdom. If you wish to embark on a collaborative quest, or if you simply seek to discuss the mysteries of tech, don't hesitate to reach out to me at chandrashekar.suryad@uleth.ca.
-
-May the arcane energies of coding and creativity guide you on your own extraordinary journey! 🌌
